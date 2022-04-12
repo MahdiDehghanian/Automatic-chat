@@ -23,6 +23,12 @@ $ npm install or yarn add
 $ npm start or yarn start
 ```
 
+### Run server
+
+``` bash
+$ npm run server
+```
+
 Navigate to [http://localhost:3000](http://localhost:3000). The app will automatically reload if you change any of the source files.
 
 
